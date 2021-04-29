@@ -1,6 +1,7 @@
 ## Website 
-Web visualisation of the dataset available [here](https://tianbreznik.github.io/Finding-Livable-Cities/) 
-Please explore!!
+Web visualisation of the dataset available [here](https://tianbreznik.github.io/Finding-Livable-Cities/). 
+
+**Please** explore!!
 
 ## A rough guide to the code
 
