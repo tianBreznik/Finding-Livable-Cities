@@ -1,7 +1,7 @@
 {
   "name": "umap-four",
   "version": "0.1.0",
-  "homepage": "http://tianbreznik.github.io/finding-livable-cities",
+  "homepage": "http://tianBreznik.github.io/finding-livable-cities",
   "private": true,
   "dependencies": {
     "@tweenjs/tween.js": "^17.2.0",
@@ -13,7 +13,8 @@
     "react-remarkable": "^1.1.3",
     "react-scripts": "2.1.3",
     "remarkable": "^1.7.1",
-    "three": "^0.100.0"
+    "three": "^0.100.0",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "start": "react-scripts start",
