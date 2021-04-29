@@ -1,6 +1,6 @@
 ## A rough guide to the code
 
-The demo app is a React app. It uses a `src/Data.js` to fetch the data and `src/Layout.js` to handle the layout of the page. The three.js visualization code is in `src/Projection.js`. The texture atlases are in the public folder as images. I also included the iPython notebook files I used to generate the texture atlases (`making_mnist_images.ipynb`) and to download the UMAP embeddings (`plot_mnist_example.ipynb`).
+The demo app is a React app. It uses a `src/Data.js` to fetch the data and `src/Layout.js` to handle the layout of the page. The three.js visualization code is in `src/Projection.js`. The texture atlases are in the public folder as images.
 
 ## Running the app
 
