@@ -1,7 +1,7 @@
 {
   "name": "umap-four",
   "version": "0.1.0",
-  "homepage": "http://tianBreznik.github.io/finding-livable-cities",
+  "homepage": "https://tianbreznik.github.io/Finding-Livable-Cities/",
   "private": true,
   "dependencies": {
     "@tweenjs/tween.js": "^17.2.0",

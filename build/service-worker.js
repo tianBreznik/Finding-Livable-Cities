@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/finding-livable-cities/precache-manifest.bdc9f42eb946554c2f36d7dfbe28dd60.js"
+  "/Finding-Livable-Cities/precache-manifest.df58c90a053748bc3f23325cdd5a9ee1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/finding-livable-cities/index.html", {
+workbox.routing.registerNavigationRoute("/Finding-Livable-Cities/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
